@@ -8,7 +8,7 @@ An undergrad student of Shahjalal University of Science and Technology, studying
 
 * 🌍  I'm based in Dhaka
 * ✉️  You can contact me at [raisulislamaupi@gmail.com](mailto:raisulislamaupi@gmail.com)
-* 🚀  I'm currently working on [Teacher Remuneration](http://github.com/Roy025/Teacher_stuff_remuneration)
+* 🚀  I'm currently working on my problem solving skill
 * 🧠  I'm learning React, React Query & Go
 * 🤝  I'm open to collaborating on Problem solving & React projects
 * ⚡  Anything that can go wrong, will go wrong - Murphy's law
