@@ -8,9 +8,9 @@ An undergrad student of Shahjalal University of Science and Technology, studying
 
 * 🌍  I'm based in Dhaka
 * ✉️  You can contact me at [raisulislamaupi@gmail.com](mailto:raisulislamaupi@gmail.com)
-* 🚀  I'm currently working on my problem solving skill
-* 🧠  I'm learning React, React Query & Go
-* 🤝  I'm open to collaborating on Problem solving & React projects
+* 🚀  I'm currently working on my backend development skill
+* 🧠  I'm learning Go, GORM & Project structuring
+* 🤝  I'm open to collaborating on Problem solving & Backend Projects
 * ⚡  Anything that can go wrong, will go wrong - Murphy's law
 
 <a href="https://www.github.com/raisul191491" target="_blank" rel="noreferrer"><img
