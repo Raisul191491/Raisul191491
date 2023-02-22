@@ -12,6 +12,7 @@ An undergrad student of Shahjalal University of Science and Technology, studying
 * 🧠  I'm learning Go, GORM & Project structuring
 * 🤝  I'm open to collaborating on Problem solving & Backend Projects
 * ⚡  Anything that can go wrong, will go wrong - Murphy's law
+* 📚 **Currently reading:** ত্রিভুজের তিন কোণের সমষ্টি, মহাশূন্যতায়
 
 <a href="https://www.github.com/raisul191491" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/raisul191491?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -24,7 +25,7 @@ src="https://img.shields.io/github/followers/raisul191491?logo=github&style=for-
   "language": ["GOlang", "C++", "Javascript"],
   "frontend": ["ReactJS"],
   "backend":  ["GO", "RestAPI"],
-  "database": ["mysql"],
+  "database": ["MySQL"],
   "design":   ["Figma"]
 }
 ```
