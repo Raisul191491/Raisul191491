@@ -12,7 +12,6 @@ An undergrad student of Shahjalal University of Science and Technology, studying
 * 🧠  I'm learning Go, GORM & Project structuring
 * 🤝  I'm open to collaborating on Problem solving & Backend Projects
 * ⚡  Anything that can go wrong, will go wrong - Murphy's law
-* 📚 **Currently reading:** ত্রিভুজের তিন কোণের সমষ্টি, মহাশূন্যতায়
 
 <a href="https://www.github.com/raisul191491" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/raisul191491?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -25,7 +24,7 @@ src="https://img.shields.io/github/followers/raisul191491?logo=github&style=for-
   "language": ["GOlang", "C++", "Javascript"],
   "frontend": ["ReactJS"],
   "backend":  ["GO", "RestAPI"],
-  "database": ["MySQL"],
+  "database": ["mysql"],
   "design":   ["Figma"]
 }
 ```
@@ -33,7 +32,19 @@ src="https://img.shields.io/github/followers/raisul191491?logo=github&style=for-
 
 ### Socials
 
-<p align="left"> <a href="https://www.facebook.com/strikngeagle139139" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/raisul191491" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/raisul-rynthian" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left">
+   <a href="https://www.facebook.com/strikngeagle139139" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
+   </a>
+  
+   <a href="https://www.github.com/raisul191491" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+   </a>
+  
+   <a href="https://www.linkedin.com/in/raisul-rynthian" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+   </a>
+</p>
 
 ### Badges
 
