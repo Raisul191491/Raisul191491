@@ -9,7 +9,7 @@ An undergrad student of Shahjalal University of Science and Technology, studying
 * 🌍  I'm based in Dhaka
 * ✉️  You can contact me at [raisulislamaupi@gmail.com](mailto:raisulislamaupi@gmail.com)
 * 🚀  I'm currently working on my backend development skill
-* 🧠  **Currently learning:** Go, GORM & Project structuring
+* 🧠  **Currently learning:** **Echo** framework, Auth with GO & Project structuring
 * 🤝  I'm open to collaborating on Problem solving & Backend Projects
 * ⚡  Anything that can go wrong, will go wrong - Murphy's law
 * 📚 **Currently reading:** প্রায়শ্চিত্ত প্রকল্প, মহাশূন্যতায়
