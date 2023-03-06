@@ -12,7 +12,7 @@ An undergrad student of Shahjalal University of Science and Technology, studying
 * 🧠  **Currently learning:** **Echo** framework, Auth with GO & Project structuring
 * 🤝  I'm open to collaborating on Problem solving & Backend Projects
 * ⚡  Anything that can go wrong, will go wrong - Murphy's law
-* 📚 **Currently reading:** প্রায়শ্চিত্ত প্রকল্প, মহাশূন্যতায়
+* 📚 **Currently reading:** ই থা কা, মহাশূন্যতায়
 
 <a href="https://www.github.com/raisul191491" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/raisul191491?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
