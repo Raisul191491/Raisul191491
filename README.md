@@ -24,7 +24,7 @@ src="https://img.shields.io/github/followers/raisul191491?logo=github&style=for-
 {
   "language": ["GOlang", "C++", "Javascript", "Java"],
   "frontend": ["ReactJS"],
-  "backend":  ["GO", "RestAPI"],
+  "backend":  ["GO", "ECHO", "RestAPI"],
   "database": ["MySQL"],
   "design":   ["Figma"]
 }
