@@ -9,10 +9,10 @@ An undergrad student of Shahjalal University of Science and Technology, studying
 * 🌍  I'm based in Dhaka
 * ✉️  You can contact me at [raisulislamaupi@gmail.com](mailto:raisulislamaupi@gmail.com)
 * 🚀  I'm currently working on my backend development skill & a GO bootcamp 
-* 🧠  **Currently learning:** **Echo** framework, Redis
-* 🤝  I'm open to collaborating on Problem solving & Backend Projects
+* 🧠  **Currently learning:** **Echo** framework, Redis, Unit testing
+* 🤝  I'm open to collaborating on Problem solving & Backend Projects
 * ⚡  Anything that can go wrong, will go wrong - Murphy's law
-* 📚 **Currently reading:** মৃতদের স্মরণে সমবেত প্রার্থনা, ইন্দ্রজাল ২  
+* 📚 **Currently reading:** Norse Mythology, এখনো ঘোড়ার চাল বাকি ২ 
 
 <a href="https://www.github.com/raisul191491" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/raisul191491?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
