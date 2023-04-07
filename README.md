@@ -1,15 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is MD. Raisul Islam
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is MD. Raisul Islam
 ========================================================================================================================================
 
 Future software engineer and lifetime book enthusiast
 -----------------------------------------------------
 
-An undergrad student of Shahjalal University of Science and Technology, studying Software Engineering. Currently at the end of 3rd year, always looking forward to opportunities.
+An undergrad student of Shahjalal University of Science and Technology, studying Software Engineering. Currently at the beginning of 4th year, enrolled in a internship program at **Vivasoft Limited**.
 
 * 🌍  I'm based in Dhaka
 * ✉️  You can contact me at [raisulislamaupi@gmail.com](mailto:raisulislamaupi@gmail.com)
-* 🚀  I'm currently working on my backend development skill & a GO bootcamp 
-* 🧠  **Currently learning:** **Echo** framework, Redis, Unit testing
+* 🚀  I'm currently working on my backend development skill, An authentication module. 
+* 🧠  **Currently learning:** **Echo** framework, Algorithoms, Unit testing
 * 🤝  I'm open to collaborating on Problem solving & Backend Projects
 * ⚡  Anything that can go wrong, will go wrong - Murphy's law
 * 📚 **Currently reading:** গিলগামেশ, গ্রিক মিথোলজি - আদি থেকে অন্ত, কিংবদন্তির ঢাকা
