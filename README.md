@@ -8,11 +8,11 @@ An undergrad student of Shahjalal University of Science and Technology, studying
 
 * 🌍  I'm based in Dhaka
 * ✉️  You can contact me at [raisulislamaupi@gmail.com](mailto:raisulislamaupi@gmail.com)
-* 🚀  I'm currently working on my backend development skill, An authentication module & Otimization of a menu service. 
-* 🧠  **Currently learning:** **Gin** framework, GORM with context & Unit testing in depth.
-* 🤝  I'm open to collaborating on Problem solving & Backend Projects.
-* ⚡  Anything that can go wrong, will go wrong - Murphy's law
-* 📚 **Currently reading:** ঢাবাকা, গ্রিক মিথোলজি - আদি থেকে অন্ত, কিংবদন্তির ঢাকা
+* 🚀  Working on my backend development skills. Also, a codebase transition to Go. 
+* 🧠  **Currently learning:** Server Side Event **(SSE)**, & Test Driven Development.
+* 🤝  I'm open to collaborating on Problem-solving & Backend Projects.
+* ⚡   Anything that can go wrong, will go wrong - Murphy's law
+* 📚 **Currently reading:** Babel, **Test Driven Development: By Example** by Kent Beck
 
 <a href="https://www.github.com/raisul191491" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/raisul191491?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
