@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is MD. Raisul Islam
 ========================================================================================================================================
 
-Future software engineer and lifetime book enthusiast
+Software engineer and lifetime book enthusiast
 -----------------------------------------------------
 
 An undergrad student of Shahjalal University of Science and Technology, studying Software Engineering. Currently at the beginning of 4th year, enrolled in a internship program at **Vivasoft Limited**.
